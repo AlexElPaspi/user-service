@@ -1,0 +1,1 @@
+<img src="https://www.sena.edu.co/Style%20Library/alayout/images/logoSena.png?rev=40" style="width: 3rem" alt="Logo SENA">
